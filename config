@@ -3,6 +3,7 @@
 Host web02
         Hostname 3.81.38.3
         User ubuntu
+        #IdentityFile /tmp/aws.pem
 Host web01
         Hostname 3.88.59.86
         User ubuntu
